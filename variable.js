@@ -1,0 +1,9 @@
+var greenvegetable = "broccoli" ;
+var redfruit = "apple" ;
+var favoritefood = "watermelon" ;
+var proteingrams = 150;
+var waterounces = 96;
+var gymminutes = 60;
+var healthy = true;
+var sad = false;
+var content = true;
